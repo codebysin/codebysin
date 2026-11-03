@@ -1,80 +1,133 @@
-# Hi, I'm Muhammed Sinan V 👋
+<!-- PROFILE HEADER -->
 
-### DevOps Engineer | AWS | Linux | Docker | Kubernetes
+<div align="center">
 
-Building, automating, and maintaining reliable infrastructure through hands-on DevOps practices.
+# Muhammed Sinan V
 
-- 🔭 Currently working as a **DevOps Engineer at 2Cloud**
-- ☁️ Working with AWS, cloud infrastructure and deployments
-- 🐳 Exploring containerization with Docker and Kubernetes
-- ⚙️ Working with CI/CD pipelines, GitHub Actions and Argo CD
-- 📊 Learning and implementing monitoring with Prometheus, Grafana and Loki
-- 🐧 Interested in Linux administration, automation and infrastructure security
-- 📚 Continuously learning and documenting real-world technical experiences
+### DevOps Engineer | Cloud Infrastructure | Automation
+
+Building reliable infrastructure, automating deployments, and improving application operations.
+
+[![GitHub](https://img.shields.io/badge/GitHub-codebysin-181717?style=for-the-badge&logo=github)](https://github.com/codebysin)
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## 👨‍💻 About Me
 
-| Category | Technologies |
-|---|---|
-| Cloud | AWS (EC2, S3, CloudFront, RDS, IAM) |
-| Operating Systems | Linux, Ubuntu |
-| Containers | Docker, Kubernetes |
-| CI/CD | GitHub Actions |
-| GitOps & Deployment | Helm, Argo CD |
-| Monitoring | Prometheus, Grafana, Loki |
-| Web Servers | Nginx |
-| Scripting | Bash, Python (learning) |
-| Version Control | Git, GitHub |
+I'm a DevOps Engineer interested in cloud infrastructure, automation, containerization, and reliable application deployments.
+
+- ☁️ Working with AWS cloud services and infrastructure.
+- 🐧 Linux server administration and troubleshooting.
+- 🐳 Containerization and orchestration with Docker and Kubernetes.
+- ⚙️ CI/CD automation using GitHub Actions.
+- 🚀 Exploring GitOps workflows using Helm and Argo CD.
+- 📊 Monitoring and logging with Prometheus, Grafana and Loki.
+- 🔐 Interested in infrastructure security and operational reliability.
+
+---
+
+## 🧰 Technology Stack
+
+<div align="center">
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes" />
+
+### DevOps & Automation
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,python" />
+
+### Deployment & Monitoring
+
+<img src="https://skillicons.dev/icons?i=nginx,prometheus,grafana" />
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Kubernetes Monitoring Stack
-- Implemented Prometheus and Grafana for monitoring.
-- Integrated Loki and Promtail for log aggregation.
-- Explored Kubernetes monitoring and alerting.
+### Kubernetes Monitoring & Observability
 
-### 2. CI/CD Automation
-- Worked with GitHub Actions workflows.
-- Automated application deployment processes.
-- Explored container-based deployment workflows.
+**Technologies:** Kubernetes, Prometheus, Grafana, Loki, Promtail
 
-### 3. AWS Infrastructure
-- Worked with EC2, S3, CloudFront and IAM.
-- Explored cloud hosting and deployment.
-- Worked on infrastructure monitoring and cost analysis.
+- Kubernetes monitoring and metrics collection.
+- Centralized log aggregation.
+- Dashboard visualization and alerting.
 
-### 4. Linux Server Administration
-- PHP security patching and version verification.
-- Nginx and PHP-FPM service checks.
-- Server troubleshooting and resource monitoring.
+### CI/CD & Containerization
+
+**Technologies:** Docker, GitHub Actions, Kubernetes, Helm
+
+- Container-based application deployment.
+- CI/CD workflow implementation.
+- Deployment automation and configuration management.
+
+### AWS Cloud Infrastructure
+
+**Technologies:** AWS EC2, S3, CloudFront, IAM
+
+- Cloud hosting and static website deployment.
+- Storage and content delivery configuration.
+- Infrastructure cost monitoring.
+
+### Linux Server Administration
+
+**Technologies:** Ubuntu, Nginx, PHP-FPM, Bash
+
+- Server health and service verification.
+- PHP security patch validation.
+- Linux troubleshooting and resource monitoring.
+
+*Project descriptions represent areas of hands-on work. Public project repositories will contain sanitized, reproducible examples.*
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Statistics
 
-I use GitHub to document technical learning, maintain project repositories and share practical implementations.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=codebysin&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysin&layout=compact&theme=github_dark&hide_border=true" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=codebysin&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-- Improving Kubernetes administration.
-- Learning Infrastructure as Code.
-- Strengthening CI/CD and GitOps practices.
-- Improving cloud security and monitoring.
-- Building production-oriented DevOps projects.
+- Advanced Kubernetes administration.
+- Infrastructure as Code.
+- CI/CD and GitOps automation.
+- Cloud infrastructure security.
+- Monitoring, logging and reliability engineering.
 
 ---
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL](YOUR_LINKEDIN_URL)
-- GitHub: [Your GitHub Profile](YOUR_GITHUB_URL)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-codebysin-181717?style=for-the-badge&logo=github)](https://github.com/codebysin)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+</div>
 
 ---
 
-*Learning continuously. Building practically. Improving consistently.*
+<div align="center">
+
+**Learn • Build • Automate • Improve**
+
+</div>
