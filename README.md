@@ -111,7 +111,7 @@ I'm a DevOps Engineer interested in cloud infrastructure, automation, containeri
 - CI/CD and GitOps automation.
 - Cloud infrastructure security.
 - Monitoring, logging and reliability engineering.
-
+- High-availability system architecture and disaster recovery mitigation.
 ---
 
 ## 🤝 Connect With Me
