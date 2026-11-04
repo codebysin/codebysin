@@ -111,7 +111,7 @@ I'm a DevOps Engineer interested in cloud infrastructure, automation, containeri
 - CI/CD and GitOps automation.
 - Cloud infrastructure security.
 - Monitoring, logging and reliability engineering.
-
+- High-availability system architecture and disaster recovery mitigation.
 ---
 
 ## 🤝 Connect With Me
@@ -120,8 +120,7 @@ I'm a DevOps Engineer interested in cloud infrastructure, automation, containeri
 
 [![GitHub](https://img.shields.io/badge/GitHub-codebysin-181717?style=for-the-badge&logo=github)](https://github.com/codebysin)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/muhammed-sinan-v
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/muhammed-sinan-v)
 
 </div>
 
